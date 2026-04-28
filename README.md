@@ -61,12 +61,6 @@ O projeto é composto por dashboards interativos que integram dados de educaçã
 
 ---
 
-## 📸 Evidências
-
-Adicione prints dos dashboards na pasta `/imagens`.
-
----
-
 ## 🚀 Resultados
 
 O projeto permitiu identificar padrões relevantes sobre a influência da escolaridade na inserção profissional, apoiando análises baseadas em dados reais.
